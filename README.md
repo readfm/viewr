@@ -1,4 +1,43 @@
 # viewr
+
+GOTO https://github.com/readfm/view8
+
+^
+
+PURA VIDA
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+^
+
+
+
 viewr view pictures w options, players
 
 ![click view picture, hold for more](https://i.imgur.com/C8SzZI2.gif)
